@@ -7,7 +7,7 @@ This project analyzes an anonymized clinical study dataset to identify distinct 
 1.  **Clustering:** Patients are grouped into distinct clusters based on anonymized features. 
 2.  **Point Process Modeling:** An Exponential Hawkes process is fitted to the event timelines of all patients *within each cluster* to model the temporal dynamics of their clinical events.
 
-The ultimate goal is to **compare the fitted Hawkes process parameters ($\mu$, $\nu$, $\theta$) across clusters**. This allows us to understand how event risk and self-excitation patterns differ between patient subgroups.
+The ultimate goal is to **compare the fitted Hawkes process parameters ($\mu$, $\eta$, $\theta$) across clusters**. This allows us to understand how event risk and self-excitation patterns differ between patient subgroups.
 
 ---
 
