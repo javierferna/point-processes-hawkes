@@ -1,4 +1,4 @@
-# 🤒 Patient Subgroup Analysis with Clustering and Hawkes Processes
+# Patient Subgroup Analysis with Clustering and Hawkes Processes
 
 ## Project Overview
 
